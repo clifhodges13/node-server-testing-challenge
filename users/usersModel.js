@@ -22,7 +22,6 @@ function remove(id) {
     .del()
 }
 
-
 module.exports = {
   find,
   findById,
